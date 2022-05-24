@@ -1,0 +1,229 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  
+}
+.container{
+    
+    padding: 1rem 6rem 6rem;
+    
+}
+a{
+    text-decoration: none;
+}
+.header{
+   
+ display: flex;
+ align-items: center;
+ 
+}
+.left img{
+    width: 50%;
+}
+.header.left img{
+    width: 100%;
+    cursor: pointer;
+}
+.header .right{
+    text-align: right;
+    width: 80%;
+}
+
+.right a{
+    margin-left: 35px;
+}
+
+.start{
+    background-image: url(https://getmasum.com/html-preview/nour/assets/img/slider/1.jpg);
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    padding: 10rem;
+   
+}
+.text{
+    color: #fff;
+    font-style: italic;
+}
+.text p{
+    font-size: 20px;
+}
+.text h1{
+    margin-bottom: 30px;
+    font-size: 45px;
+}
+.btn-text{
+    background-color: #545ADD;
+    padding: 13px 30px;
+    color: #fff;
+    font-size: 13px;
+    
+    border-radius: 5px;
+}
+.left img{
+    cursor: pointer;
+    width: 50%;
+    vertical-align: middle;
+    text-align: right;
+}
+
+i{
+    font-size: 48px;
+}
+.box .asa{
+    width: 70px;
+}
+.container .box{
+    width: 40%;
+   
+}
+.left{
+    
+    width: 50%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.box p{
+    color: #666;
+    font-size: 15px;
+    line-height: 1.8;
+    font-weight: 400;
+    width: 60%;
+}
+.right img{
+width: 50%;
+
+}
+#middle .four{
+    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    
+}
+ #middle .boxx{
+    width: 20%;
+}
+.boxx img{
+    width: 100%;
+}
+.four{
+    
+}
+.boox h4{
+    font-size: 20px;
+  
+}
+.four .boxx{
+    margin: auto;
+    text-align: center;
+    background-size: cover;
+   padding-bottom: 3rem;
+    border: 2px solid #EBE6DE;
+} 
+.four h2{
+    text-transform: uppercase;
+    font-size: 15px;
+}
+.four p{
+    font-size: 27px;
+}
+#title{
+text-align: center;
+}
+.tittle h2{
+    text-transform: uppercase;
+    font-size: 15px;
+}
+.tittle p{
+    font-size: 27px;
+}
+#third .container{
+    display: flex;
+}
+#third .left{
+    display: flex;
+    width: 50%;
+}
+#third .right{
+    display: flex;
+    width: 50%;
+}
+#third .right img{
+    
+    width: 100%;
+}
+.title{
+    text-align: center;
+}
+.tittle h2{
+    text-transform: uppercase;
+    font-size: 15px;
+}
+.tittle p{
+    font-size: 27px;
+}
+#five .container{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+#five .container .box{
+    margin-left: 30px;
+    width: 25%;
+    justify-content: center;
+    justify-content: space-between;
+}
+.container .box{
+    background-color:#F4F9FF;
+    margin-bottom: 3rem;
+    padding: 40px 40px 40px 40px;
+    margin-left: 3rem;
+}
+.box h4{
+    text-align: center;
+}
+.container .box p{
+    width: 100%;
+}
+.box .aaa{
+    
+    width: 40px;
+}
+.title{
+    text-align: center;
+}
+.tittle h2{
+    text-transform: uppercase;
+    font-size: 15px;
+}
+.tittle p{
+    font-size: 27px;
+}
+.gallery{
+   width: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    background-size: cover;
+}
+.gallery .boxs{
+    
+    width: 30%;
+    justify-content: space-between;
+    
+}
+.gallery img{
+    justify-content: space-between;
+    width: 100%;
+    background-size: cover;
+    display: flex;
+    
+  
+}
+
